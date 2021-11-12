@@ -1,0 +1,33 @@
+body {
+    background-image: url(/images/background2.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.container {
+    background-color: #5CDB95;
+    width: 70%;
+    border: 10px solid #379683;
+    margin: auto;
+}
+
+.header {
+    text-align: center;
+    background-color: #8EE4AF;
+}
+
+.footer {
+    text-align: center;
+    background-color: #8EE4AF;
+}
+
+.p1 {
+    font-family:'Courier New', Courier, monospace;
+    font-size: 150%;
+}
+
+.p2 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 130%;
+}
+
